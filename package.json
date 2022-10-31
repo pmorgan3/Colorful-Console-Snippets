@@ -4,6 +4,10 @@
   "description": "Colorful console log snippets for VS Code",
   "version": "0.0.1",
   "publisher": "pmorgan3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmorgan3/Colorful-Console-Snippets"
+  },
   "engines": {
     "vscode": "^1.28.0"
   },
