@@ -1,0 +1,72 @@
+{
+  "Print red on black": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #222; color: red');"
+  },
+  "Print blue on black": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #222; color: blue');"
+  },
+  "Print green on black": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #222; color: green');"
+  },
+  "Print orange on black": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #222; color: orange');"
+  },
+  "Print purple on black": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #222; color: purple');"
+  },
+  "Print teal on black": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #222; color: teal');"
+  },
+  "Print red on white": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #fff; color: red');"
+  },
+  "Print blue on white": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #fff; color: blue');"
+  },
+  "Print green on white": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #fff; color: green');"
+  },
+  "Print orange on white": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #fff; color: orange');"
+  },
+  "Print purple on white": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #fff; color: purple');"
+  },
+  "Print teal on white": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #fff; color: teal');"
+  },
+  "Print black on white": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #fff; color: #000');"
+  },
+  "Print white on black": {
+    "scope": "javascript,typescript",
+    "prefix": "conl",
+    "body": "console.log(`%c ${TM_FILENAME} line:${TM_LINE_NUMBER} $1 `, 'background: #000; color: #fff');"
+  }
+}
